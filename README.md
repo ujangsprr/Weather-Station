@@ -1,5 +1,5 @@
-| WEATHER STATION  |
-| ------- | ------ |
+| WEATHER  | STATION |
+| ------ | ----- |
 
 PT PJB PAITON
 =============
